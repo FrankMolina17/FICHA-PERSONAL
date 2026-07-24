@@ -1,3 +1,3 @@
-module semana03-taller-relaciones
+module semana10-tercerbackend
 
 go 1.26.2
